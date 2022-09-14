@@ -7,7 +7,8 @@
   "license": "ISC",
   "dependencies": {
     "@magne-mite/types": "github:Microsxema/magne-mite-types",
-    "redis": "^4.3.1"
+    "redis": "^4.3.1",
+    "web3": "^1.8.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.17"
