@@ -1,0 +1,15 @@
+{
+  "name": "@magne-mite/repositories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@magne-mite/types": "github:Microsxema/magne-mite-types",
+    "redis": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.17"
+  }
+}

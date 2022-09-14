@@ -1,0 +1,15 @@
+{
+  "extends": "@tsconfig/node14/tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "allowJs": true,
+    "useDefineForClassFields": true,
+    "esModuleInterop": false
+  },
+  "ts-node": {
+    "files": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

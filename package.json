@@ -1,0 +1,25 @@
+{
+  "name": "magne-mite-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "files": [
+    "dist/"
+  ],
+  "workspaces": [
+    "./packages/*"
+  ],
+  "dependencies": {
+    "@magne-mite/repositories": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsxema/magne-mite-services.git"
+  },
+  "author": "RobertG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Microsxema/magne-mite-services/issues"
+  },
+  "homepage": "https://github.com/Microsxema/magne-mite-services#readme"
+}
